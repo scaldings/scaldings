@@ -10,4 +10,4 @@
 * Discord: **scaldings#8694**  
 * Telegram: **scaldings** or **https://t.me/scaldings/**  
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![scaldings's github stats](https://github-readme-stats.vercel.app/api?username=scaldings)](https://github.com/anuraghazra/github-readme-stats)
