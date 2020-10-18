@@ -3,8 +3,6 @@
 ## Currently learning  
 * Java
 * Python
-* HTML
-* CSS
 
 ## Contact  
 * Discord: **scaldings#8694**  
