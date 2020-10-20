@@ -1,4 +1,4 @@
-### Hello, my name is Luke. I am a newbie developer.
+### Hello, my name is Luke. I am a begginer developer.
 
 ## Currently learning  
 * Java
