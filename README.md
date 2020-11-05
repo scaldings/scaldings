@@ -1,4 +1,4 @@
-### Hello, my name is Lucas. I am a begginer developer.
+### Hello, my name is Lucas. I am a 14 years old intermediate Python developer.
 
 ## Currently learning  
 * Java
