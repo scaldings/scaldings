@@ -10,4 +10,4 @@
 * Telegram: **scaldings** or **https://t.me/scaldings/**  
 
 [![scaldings's github stats](https://github-readme-stats.vercel.app/api?username=scaldings&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![scaldings's github stats](https://github-readme-stats.vercel.app/api?username=scaldings)](https://github.com/anuraghazra/github-readme-stats)
+[![scaldings's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=scaldings&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
