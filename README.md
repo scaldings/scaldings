@@ -2,8 +2,8 @@
 #### I am a 14 year old intermediate Python developer.
 
 ## Currently learning  
-* Java
 * Python
+* Java
 
 ## Contact  
 * Discord: **scaldings#8694**  
