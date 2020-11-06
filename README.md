@@ -1,4 +1,4 @@
-# Hello, my name is Lucas.
+# Hello, my name is Luke.
 I am a 14 year old intermediate Python developer.
 
 ## What I like:
