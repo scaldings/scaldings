@@ -3,7 +3,7 @@
 
 ## Currently learning  
 * Python
-* Java
+* Markdown
 
 ## Contact  
 * Discord: **scaldings#8694**  
