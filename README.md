@@ -6,6 +6,7 @@ I love coding in python for many reasons. Here are some:
   * Simple syntax
   * Ability to do a lot with just a few lines of code
   * Makes automization really easy  
+  
 I also like listening to music while coding. It helps me relax  
 and or concentrate a lot.
 I need to be organized all the time so I usually have most of my day written  
