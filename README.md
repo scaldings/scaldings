@@ -14,7 +14,7 @@ down somewhere so that I don't get lost in my thought - this kind of means I lik
 being organized?
 
 ## Contact
-* Discord: **scaldings#8694**
+* Discord: **scaldings#1095**
 * Telegram: **scaldings** or **https://t.me/scaldings/**
 
 [![scaldings's github stats](https://github-readme-stats.vercel.app/api?username=scaldings&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
