@@ -22,4 +22,4 @@ I also like coding in Java because:
 * Discord: **scaldings#1095**
 * Telegram: **scaldings** or **https://t.me/scaldings/**
 
-[![scaldings's github stats](https://github-readme-stats.vercel.app/api?username=scaldings&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![scaldings's github stats](https://github-readme-stats.vercel.app/api?username=scaldings&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
