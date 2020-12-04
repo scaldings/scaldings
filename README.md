@@ -11,7 +11,12 @@ I also like listening to music while coding. It helps me relax
 and (or) concentrate a lot.
 I need to be organized all the time so I usually have most of my day written  
 down somewhere so that I don't get lost in my thought - this kind of means I like  
-being organized?
+being organized?  
+  
+I also like coding in Java because:
+ * I can create minecraft mods, which are fun and people like to use them
+ * Really interesting to me, I like the syntax  
+ * Can be challenging and still look great even with more complicated syntax
 
 ## Contact
 * Discord: **scaldings#1095**
