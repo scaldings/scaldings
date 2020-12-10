@@ -19,7 +19,7 @@ I also like coding in Java because:
  * Can be challenging and still look great even with more complicated syntax
 
 ## Contact
-* Discord: **scaldings#1095**
+* Discord: **scaldings#0312**
 * Telegram: **scaldings** or **https://t.me/scaldings/**
 
 [![scaldings's github stats](https://github-readme-stats.vercel.app/api?username=scaldings&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
