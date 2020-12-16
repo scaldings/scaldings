@@ -23,3 +23,4 @@ I also like coding in Java because:
 * Telegram: **scaldings** or **https://t.me/scaldings/**
 
 [![scaldings's github stats](https://github-readme-stats.vercel.app/api?username=scaldings&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![scalding's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scaldings&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
